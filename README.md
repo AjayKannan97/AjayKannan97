@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Generative AI projects**
 
-- 📝 I regularly write articles on [https://medium.com/@ajay_k](https://medium.com/@ajay_k)
+- 📝 I have written a blog on [https://medium.com/@ajay_k](https://medium.com/@ajay_k)
 
 - 💬 Ask me about **python, javascript and C++**
 
@@ -20,6 +20,7 @@
 <a href="https://twitter.com/iamajaykannan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamajaykannan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ajay-kannan-34a04013b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajay-kannan-34a04013b" height="30" width="40" /></a>
 <a href="https://instagram.com/i_m_ajjaaayyyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_m_ajjaaayyyy" height="30" width="40" /></a>
+<a href="https://medium.com/@ajay_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ajay_k" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/wingman16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="wingman16" height="30" width="40" /></a>
 </p>
 
@@ -29,4 +30,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajaykannan97&show_icons=true&locale=en&layout=compact" alt="ajaykannan97" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajaykannan97&show_icons=true&locale=en" alt="ajaykannan97" /></p>
-
